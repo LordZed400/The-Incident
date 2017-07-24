@@ -5,7 +5,8 @@ This is a game made in **GameMaker Studio**, inspired by retro games like *Space
 ***Disclaimer: All Marvel property is copyright to Disney, I do not own any of them.***  
 This game uses *custom* sprites **hand drawn** by the creators of this Game.  
 
-The Chitauri are invading New York and it is up to our genius playboy philanthropist Iron-Man to save the day.  
+The Chitauri are invading New York and it is up to our genius playboy philanthropist Iron-Man to save the day.    
+![Game](https://github.com/LordZed400/The-Incident/blob/master/screenshots/Screenshot-2.png "The Actual Game")  
 
 ## Features
 - Player HP and Town HP that depletes when in contact with the Enemy
@@ -13,4 +14,4 @@ The Chitauri are invading New York and it is up to our genius playboy philanthro
 - Infinitely and randomly generating enemies
 - Highscore System
 
-![Gmae]("The Actual Game")
+
